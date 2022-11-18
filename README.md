@@ -1,4 +1,4 @@
-# Reci-Mania
+# Reci-Mania.
 
 Website Demo :[ Reci-Mania](https://reci-mania.000webhostapp.com/)
 
