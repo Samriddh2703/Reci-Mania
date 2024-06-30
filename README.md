@@ -12,7 +12,7 @@ Website Demo :[ Reci-Mania](https://reci-mania.000webhostapp.com/)
 2. JavaScript (to create dynamically updating content)
 3. Bootstrap (An HTML, CSS, and JS library)
 4. XAMPP (A web server by Apache Friends)
-5. Php
+5. PhP
 6. MySQL (An RDBMS that uses SQL)
 
 ## Steps to run the project in your machine
